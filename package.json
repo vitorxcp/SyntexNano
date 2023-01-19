@@ -1,0 +1,15 @@
+{
+  "name": "syntexnanobot",
+  "version": "1.0.0",
+  "description": "aAplication Discord for Bot and Moderation Servers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord bot", "bot", "moderation", "v13"],
+  "author": "vitorxp",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.12.0"
+  }
+}
