@@ -1,13 +1,2 @@
-.vscode/*
-!.vscode/settings.json
-.src/aplication/config/index.js
+.src/application/config/*
 node_modules
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
-.pnp.*
-logs
-.turbo
